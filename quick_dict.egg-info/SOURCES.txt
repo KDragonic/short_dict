@@ -1,0 +1,11 @@
+LICENSE.md
+README.md
+setup.cfg
+setup.py
+package/__init__.py
+package/main.py
+quick_dict.egg-info/PKG-INFO
+quick_dict.egg-info/SOURCES.txt
+quick_dict.egg-info/dependency_links.txt
+quick_dict.egg-info/requires.txt
+quick_dict.egg-info/top_level.txt
