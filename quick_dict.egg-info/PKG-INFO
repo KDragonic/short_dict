@@ -2,10 +2,10 @@ Metadata-Version: 2.1
 Name: quick-dict
 Version: 1.0.0
 Summary: Модуль был создан для личного пользования, для более удобной работы с dict
-Home-page: home_link
+Home-page: https://github.com/KDragonic/short_dict
 Author: Dragonic
 Author-email: denkoropov@gmail.com
-Project-URL: Documentation, link
+Project-URL: Documentation, https://github.com/KDragonic/short_dict
 Keywords: dict fun fast
 Classifier: Programming Language :: Python :: 3.11
 Classifier: License :: OSI Approved :: MIT License

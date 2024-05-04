@@ -1,0 +1,7 @@
+1. python setup.py sdist bdist_wheel
+2. twine upload --repository testpypi dist/*
+3. Потом вести токен
+4. https://test.pypi.org/project/quick-dict/1.0.0/
+
+
+Хочу сделать чтобы работала на подобие такова

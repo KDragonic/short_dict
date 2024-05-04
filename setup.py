@@ -12,7 +12,7 @@ setup(
   description='Модуль был создан для личного пользования, для более удобной работы с dict',
   long_description=readme(),
   long_description_content_type='text/markdown',
-  url='home_link',
+  url='https://github.com/KDragonic/short_dict',
   packages=find_packages(),
   install_requires=['requests>=2.25.1'],
   classifiers=[
@@ -22,7 +22,7 @@ setup(
   ],
   keywords='dict fun fast',
   project_urls={
-    'Documentation': 'link'
+    'Documentation': 'https://github.com/KDragonic/short_dict'
   },
   python_requires='>=3.10'
 )
